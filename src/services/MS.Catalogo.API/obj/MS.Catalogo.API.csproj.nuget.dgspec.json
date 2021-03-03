@@ -1,0 +1,234 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projetos\\Desenvolvedor.IO\\ASP.NET Core Enterprise Applications\\MStore\\src\\services\\MS.Catalogo.API\\MS.Catalogo.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Projetos\\Desenvolvedor.IO\\ASP.NET Core Enterprise Applications\\MStore\\src\\building blocks\\MS.Core\\MS.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\Desenvolvedor.IO\\ASP.NET Core Enterprise Applications\\MStore\\src\\building blocks\\MS.Core\\MS.Core.csproj",
+        "projectName": "MS.Core",
+        "projectPath": "C:\\Projetos\\Desenvolvedor.IO\\ASP.NET Core Enterprise Applications\\MStore\\src\\building blocks\\MS.Core\\MS.Core.csproj",
+        "packagesPath": "C:\\Users\\NOTE-MC\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\Desenvolvedor.IO\\ASP.NET Core Enterprise Applications\\MStore\\src\\building blocks\\MS.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\NOTE-MC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projetos\\Desenvolvedor.IO\\ASP.NET Core Enterprise Applications\\MStore\\src\\building blocks\\MS.WebAPI.Core\\MS.WebAPI.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\Desenvolvedor.IO\\ASP.NET Core Enterprise Applications\\MStore\\src\\building blocks\\MS.WebAPI.Core\\MS.WebAPI.Core.csproj",
+        "projectName": "MS.WebAPI.Core",
+        "projectPath": "C:\\Projetos\\Desenvolvedor.IO\\ASP.NET Core Enterprise Applications\\MStore\\src\\building blocks\\MS.WebAPI.Core\\MS.WebAPI.Core.csproj",
+        "packagesPath": "C:\\Users\\NOTE-MC\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\Desenvolvedor.IO\\ASP.NET Core Enterprise Applications\\MStore\\src\\building blocks\\MS.WebAPI.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\NOTE-MC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projetos\\Desenvolvedor.IO\\ASP.NET Core Enterprise Applications\\MStore\\src\\services\\MS.Catalogo.API\\MS.Catalogo.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\Desenvolvedor.IO\\ASP.NET Core Enterprise Applications\\MStore\\src\\services\\MS.Catalogo.API\\MS.Catalogo.API.csproj",
+        "projectName": "MS.Catalogo.API",
+        "projectPath": "C:\\Projetos\\Desenvolvedor.IO\\ASP.NET Core Enterprise Applications\\MStore\\src\\services\\MS.Catalogo.API\\MS.Catalogo.API.csproj",
+        "packagesPath": "C:\\Users\\NOTE-MC\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\Desenvolvedor.IO\\ASP.NET Core Enterprise Applications\\MStore\\src\\services\\MS.Catalogo.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\NOTE-MC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Projetos\\Desenvolvedor.IO\\ASP.NET Core Enterprise Applications\\MStore\\src\\building blocks\\MS.Core\\MS.Core.csproj": {
+                "projectPath": "C:\\Projetos\\Desenvolvedor.IO\\ASP.NET Core Enterprise Applications\\MStore\\src\\building blocks\\MS.Core\\MS.Core.csproj"
+              },
+              "C:\\Projetos\\Desenvolvedor.IO\\ASP.NET Core Enterprise Applications\\MStore\\src\\building blocks\\MS.WebAPI.Core\\MS.WebAPI.Core.csproj": {
+                "projectPath": "C:\\Projetos\\Desenvolvedor.IO\\ASP.NET Core Enterprise Applications\\MStore\\src\\building blocks\\MS.WebAPI.Core\\MS.WebAPI.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.10.9, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.3.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

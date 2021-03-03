@@ -1,0 +1,9 @@
+C:\Projetos\Desenvolvedor.IO\ASP.NET Core Enterprise Applications\MStore\src\building blocks\MS.WebAPI.Core\bin\Debug\netcoreapp3.1\MS.WebAPI.Core.deps.json
+C:\Projetos\Desenvolvedor.IO\ASP.NET Core Enterprise Applications\MStore\src\building blocks\MS.WebAPI.Core\bin\Debug\netcoreapp3.1\MS.WebAPI.Core.dll
+C:\Projetos\Desenvolvedor.IO\ASP.NET Core Enterprise Applications\MStore\src\building blocks\MS.WebAPI.Core\bin\Debug\netcoreapp3.1\MS.WebAPI.Core.pdb
+C:\Projetos\Desenvolvedor.IO\ASP.NET Core Enterprise Applications\MStore\src\building blocks\MS.WebAPI.Core\obj\Debug\netcoreapp3.1\MS.WebAPI.Core.csprojAssemblyReference.cache
+C:\Projetos\Desenvolvedor.IO\ASP.NET Core Enterprise Applications\MStore\src\building blocks\MS.WebAPI.Core\obj\Debug\netcoreapp3.1\MS.WebAPI.Core.AssemblyInfoInputs.cache
+C:\Projetos\Desenvolvedor.IO\ASP.NET Core Enterprise Applications\MStore\src\building blocks\MS.WebAPI.Core\obj\Debug\netcoreapp3.1\MS.WebAPI.Core.AssemblyInfo.cs
+C:\Projetos\Desenvolvedor.IO\ASP.NET Core Enterprise Applications\MStore\src\building blocks\MS.WebAPI.Core\obj\Debug\netcoreapp3.1\MS.WebAPI.Core.csproj.CoreCompileInputs.cache
+C:\Projetos\Desenvolvedor.IO\ASP.NET Core Enterprise Applications\MStore\src\building blocks\MS.WebAPI.Core\obj\Debug\netcoreapp3.1\MS.WebAPI.Core.dll
+C:\Projetos\Desenvolvedor.IO\ASP.NET Core Enterprise Applications\MStore\src\building blocks\MS.WebAPI.Core\obj\Debug\netcoreapp3.1\MS.WebAPI.Core.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QiSHYRr//Ea57YBrxafvStuU72IuDqIoed5qRNNSQHGTPZ/y0L8ZGZ9SEA0eJOsdIMRtndpLghNApKndBjrHIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\Desenvolvedor.IO\\ASP.NET Core Enterprise Applications\\MStore\\src\\services\\MS.Pedido.API\\MS.Pedido.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NOTE-MC\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}

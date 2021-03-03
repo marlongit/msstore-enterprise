@@ -1,0 +1,8 @@
+C:\Projetos\Desenvolvedor.IO\ASP.NET Core Enterprise Applications\MStore\src\building blocks\MS.Core\bin\Debug\netcoreapp3.1\MS.Core.deps.json
+C:\Projetos\Desenvolvedor.IO\ASP.NET Core Enterprise Applications\MStore\src\building blocks\MS.Core\bin\Debug\netcoreapp3.1\MS.Core.dll
+C:\Projetos\Desenvolvedor.IO\ASP.NET Core Enterprise Applications\MStore\src\building blocks\MS.Core\bin\Debug\netcoreapp3.1\MS.Core.pdb
+C:\Projetos\Desenvolvedor.IO\ASP.NET Core Enterprise Applications\MStore\src\building blocks\MS.Core\obj\Debug\netcoreapp3.1\MS.Core.AssemblyInfoInputs.cache
+C:\Projetos\Desenvolvedor.IO\ASP.NET Core Enterprise Applications\MStore\src\building blocks\MS.Core\obj\Debug\netcoreapp3.1\MS.Core.AssemblyInfo.cs
+C:\Projetos\Desenvolvedor.IO\ASP.NET Core Enterprise Applications\MStore\src\building blocks\MS.Core\obj\Debug\netcoreapp3.1\MS.Core.csproj.CoreCompileInputs.cache
+C:\Projetos\Desenvolvedor.IO\ASP.NET Core Enterprise Applications\MStore\src\building blocks\MS.Core\obj\Debug\netcoreapp3.1\MS.Core.dll
+C:\Projetos\Desenvolvedor.IO\ASP.NET Core Enterprise Applications\MStore\src\building blocks\MS.Core\obj\Debug\netcoreapp3.1\MS.Core.pdb
